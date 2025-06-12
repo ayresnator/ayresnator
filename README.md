@@ -6,7 +6,7 @@
 
 #
 
-<p align="center">Estudante de Ciência da Computação, com interesse em desenvolvimento backend (Java) e frontend (JavaScript).
+<p align="center">Graduanda em Ciência da Computação, com foco em desenvolvimento back-end.
 
 #
 
