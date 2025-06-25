@@ -35,17 +35,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo" />
 </div>
 
-## 📊 GitHub Stats
+<h3 align="left">GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayresnator&hide_title=true&show_icons=true&count_private=true&theme=jolly&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6" alt="GitHub stats">
-</p>
-
-<p align="center">
-  <a href="https://github.com/ayresnator/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayresnator&layout=compact&langs_count=4&count_private=true&theme=jolly&bg_color=000&text_color=8B8B8B&border_color=561760" alt="Most Used Languages">
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ayresnator&hide_title=true&show_icons=true&count_private=true&theme=jolly&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayresnator&layout=compact&langs_count=4&count_private=true&theme=jolly&bg_color=000&text_color=8B8B8B&border_color=561760" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
 
 
