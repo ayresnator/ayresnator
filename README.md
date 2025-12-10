@@ -16,8 +16,6 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=000)](mailto:anaayreso@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=000)](https://www.linkedin.com/in/anaclaraayres)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=000)](https://www.instagram.com/mundinhodaayres.tech/)
-[![Tiktok](https://img.shields.io/badge/-Tiktok-000?style=for-the-badge&logo=tiktok&logoColor=FF00F6&color=000)](https://www.tiktok.com/@mundinhodaayres?_t=ZM-8x9XbKul1aq&_r=1)
 
 <h3 align="left">My Stack </h3>
 
