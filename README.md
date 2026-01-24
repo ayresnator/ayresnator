@@ -1,16 +1,26 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Oiii,+eu+sou+a+Ayres!+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Oiii,+eu+sou+a+Ana!+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
 #
 
-<p align="center">Graduanda em Ciência da Computação, com foco em desenvolvimento back-end.</p>
+<p align="center">Estudante de Ciência da Computação e sempre tentando convencer meu código a funcionar de primeira (spoiler: raramente acontece ><).</p>
+
+<div align="center">
+  <img align="right" alt="Coding" height="190px" src="./src/codeme.png">
+</div>
+
+### 👩‍💻 Sobre mim
+
+Sou desenvolvedora com foco em **Back-end**. Gosto da lógica pura, de resolver problemas e garantir que tudo esteja funcionando "por baixo do capô". Atualmente, passo meus dias vidrada no terminal, pensando em regras de negócio e tentando fazer o Docker ser meu melhor amigo (mesmo que ele resista)!!!
+
+* 🔭 Atualmente focada em: **NestJS, PostgreSQL e Docker**
+* ⚙️ Interesses: Sistemas escaláveis, automação e desenvolvimento de APIs
+* ⚡ Curiosidade: Eu realmente gosto de debugar! Me sinto em um episódio de Criminal Minds em que o 'descon' sou eu mesma de 10 minutos atrás!
 
 #
-
-<img align="right" alt="Coding" height="190px" src="./src/codeme.png">
 
 <h3 align="left">Conecte-se comigo!</h3>
 
@@ -36,6 +46,13 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
 </div>
+
+<br />
+
+### 🛠️ O que ando construindo (Projetos Privados)
+
+* **CineTracker API:** Desenvolvida em **NestJS**, focada em boas práticas de DTOs, validações e organização de banco de dados.
+* **PokeDuel Simulator:** Aplicação que consome a PokeAPI para buscar dados em tempo real e implementa uma engine de batalha. O foco foi a manipulação de dados externos, tratamento de respostas assíncronas e desenvolvimento da lógica de duelo.
 
 <br />
 
