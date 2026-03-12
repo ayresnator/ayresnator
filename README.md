@@ -6,7 +6,7 @@
 
 #
 
-<p align="center">Estudante de Ciência da Computação e sempre tentando convencer meu código a funcionar de primeira (spoiler: raramente acontece ><).</p>
+<p align="center">Estudante de Ciência da Computação que está sempre tentando convencer o próprio código a rodar de primeira (spoiler: raramente acontece ><).</p>
 
 <div align="center">
   <img align="right" alt="Coding" height="190px" src="./src/codeme.png">
