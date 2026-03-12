@@ -14,11 +14,11 @@
 
 ### 👩‍💻 Sobre mim
 
-Sou desenvolvedora com foco em **Back-end**. Gosto da lógica pura, de resolver problemas e garantir que tudo esteja funcionando "por baixo do capô". Atualmente, passo meus dias vidrada no terminal, pensando em regras de negócio e tentando fazer o Docker ser meu melhor amigo (mesmo que ele resista)!!!
+Sou desenvolvedora **Full Stack**. Gosto da lógica pura, de resolver problemas e garantir que tudo esteja funcionando "por baixo do capô". Atualmente, passo meus dias vidrada no terminal, pensando em regras de negócio e tentando fazer o Docker ser meu melhor amigo (mesmo que ele resista)!!!
 
-* 🔭 Atualmente focada em: **NestJS, PostgreSQL e Docker**
+* 🔭 Atualmente focada em: **VueJs e React**
 * ⚙️ Interesses: Sistemas escaláveis, automação e desenvolvimento de APIs
-* ⚡ Curiosidade: Eu realmente gosto de debugar! Me sinto em um episódio de Criminal Minds em que o 'descon' sou eu mesma de 10 minutos atrás!
+* ⚡ Curiosidade: Eu realmente gosto de debugar! Me sinto em um episódio de Criminal Minds em que o 'descon' sou eu mesma de 2 dias atrás!
 
 #
 
@@ -30,21 +30,27 @@ Sou desenvolvedora com foco em **Back-end**. Gosto da lógica pura, de resolver 
 <h3 align="left">My Stack</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo" title="JavaScript" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" title="TypeScript" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" title="Node.js" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo" title="NestJS" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" title="PostgreSQL" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" title="Docker" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" title="HTML5" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" title="CSS3" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" title="Vue.js" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" title="React" />
 </div>
 
 <br />
