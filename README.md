@@ -64,7 +64,7 @@ Sou desenvolvedora **Full Stack**. Gosto da lógica pura, de resolver problemas 
 
 <p align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ayresnator&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayresnator&layout=compact&langs_count=7&theme=radical&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayresnator&layout=compact&langs_count=10&theme=radical&hide_border=true" />
 </p>
 
 <br />
